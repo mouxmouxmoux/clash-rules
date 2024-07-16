@@ -15,4 +15,3 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tencent-cloud.com
-  - DOMAIN-SUFFIX,tencent-cloud.com
