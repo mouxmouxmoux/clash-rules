@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,racknerd.com
   - DOMAIN-SUFFIX,seejav.me
   - DOMAIN-SUFFIX,raksmart.com
+  - DOMAIN-KEYWORD,/^.*\.jav.+\..+
