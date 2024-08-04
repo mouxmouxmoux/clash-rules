@@ -36,5 +36,9 @@ payload:
   - DOMAIN-SUFFIX,seejav.me
   - DOMAIN-SUFFIX,raksmart.com
   - DOMAIN-SUFFIX,xcity.jp
-  - DOMAIN-KEYWORD,/^.*\.jav.+\..+
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-KEYWORD,javbus
+  - DOMAIN-KEYWORD,javlibrary
+  - DOMAIN-KEYWORD,javdb
+
 
