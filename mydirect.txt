@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tencent-cloud.com
   - DOMAIN-SUFFIX,tencent-cloud.cn
+  - DOMAIN-SUFFIX,download.nvidia.cn
